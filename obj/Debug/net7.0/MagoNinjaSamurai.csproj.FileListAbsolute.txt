@@ -1,0 +1,14 @@
+C:\Aplicaciones\Coding dojo\Clases\C#\MagoNinjaSamurai\obj\Debug\net7.0\MagoNinjaSamurai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicaciones\Coding dojo\Clases\C#\MagoNinjaSamurai\obj\Debug\net7.0\MagoNinjaSamurai.AssemblyInfoInputs.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\MagoNinjaSamurai\obj\Debug\net7.0\MagoNinjaSamurai.AssemblyInfo.cs
+C:\Aplicaciones\Coding dojo\Clases\C#\MagoNinjaSamurai\obj\Debug\net7.0\MagoNinjaSamurai.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\MagoNinjaSamurai\bin\Debug\net7.0\MagoNinjaSamurai.exe
+C:\Aplicaciones\Coding dojo\Clases\C#\MagoNinjaSamurai\bin\Debug\net7.0\MagoNinjaSamurai.deps.json
+C:\Aplicaciones\Coding dojo\Clases\C#\MagoNinjaSamurai\bin\Debug\net7.0\MagoNinjaSamurai.runtimeconfig.json
+C:\Aplicaciones\Coding dojo\Clases\C#\MagoNinjaSamurai\bin\Debug\net7.0\MagoNinjaSamurai.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\MagoNinjaSamurai\bin\Debug\net7.0\MagoNinjaSamurai.pdb
+C:\Aplicaciones\Coding dojo\Clases\C#\MagoNinjaSamurai\obj\Debug\net7.0\MagoNinjaSamurai.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\MagoNinjaSamurai\obj\Debug\net7.0\refint\MagoNinjaSamurai.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\MagoNinjaSamurai\obj\Debug\net7.0\MagoNinjaSamurai.pdb
+C:\Aplicaciones\Coding dojo\Clases\C#\MagoNinjaSamurai\obj\Debug\net7.0\MagoNinjaSamurai.genruntimeconfig.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\MagoNinjaSamurai\obj\Debug\net7.0\ref\MagoNinjaSamurai.dll
